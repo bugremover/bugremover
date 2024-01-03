@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently studying<br>👯 I’m looking to collaborate on web development<br>🤝 I’m looking for help with my project<br>🌱 I’m currently learning swift<br>💬 Ask me about anything<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/iamharshaaaaaa/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Harshav48308892) 
